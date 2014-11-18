@@ -1,10 +1,10 @@
 {
    "abstract" : "Math is HARD (faster, old-school)",
    "author" : [
-      "Ingy döt Net <ingy@cpan.org>"
+      "Ingy dÃ¶t Net <ingy@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.132830",
+   "generated_by" : "ExtUtils::MakeMaker version 7, CPAN::Meta::Converter version 2.142690",
    "license" : [
       "unknown"
    ],
@@ -35,5 +35,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "v0.0.2"
+   "version" : "v0.0.3"
 }
